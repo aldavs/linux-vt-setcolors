@@ -33,10 +33,10 @@ static const char *console_paths[] = {
 };
 
 static const char default_color_set[PALETTE_SIZE][7] = {
-	"000000","aa0000","00aa00","aa5500",
-	"0000aa","aa00aa","00aaaa","aaaaaa",
-	"555555","ff5555","55ff55","ffff55",
-	"5555ff","ff55ff","55ffff","ffffff" };
+	"282828","cc241d","98971a","d79921",
+	"458588","b16286","689d6a","a89984",
+	"504945","fb4934","b8bb26","fabd2f",
+	"83a598","d3869b","8ec07c","ebdbb2" };
 
 /**
  * The palette struct is the type expected by ioctl PIO_CMAP
